@@ -12,4 +12,4 @@ A self-made react-scaffold for react apps with webpack 4.x, babel, hot module re
 MIT
 
 ## Thanks
-Many Thanks to @ruanyf and @temulun for [react-babel-webpack-boilerplate](https://github.com/ruanyf/react-babel-webpack-boilerplate) and [webpack4.x_react_proj](https://github.com/temulun/webpack4.x_react_proj) 
+Many thanks to @ruanyf and @temulun for [react-babel-webpack-boilerplate](https://github.com/ruanyf/react-babel-webpack-boilerplate) and [webpack4.x_react_proj](https://github.com/temulun/webpack4.x_react_proj) 
